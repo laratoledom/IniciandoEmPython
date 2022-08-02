@@ -14,4 +14,7 @@ O programa consiste em receber dois números inteiros e armazená-los nas variá
 •	Exponenciação: a ** b <br>
 •	Divisão Inteira: a // b <br>
 •	Resto da Divisão: a % b <br> 
-</b>
+</b> <br>
+
+Observações:
+O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de teste que verificam o código.  
