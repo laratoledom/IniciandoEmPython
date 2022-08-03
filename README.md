@@ -19,4 +19,4 @@ O programa consiste em receber dois números inteiros e armazená-los nas variá
 
 _________________________________________________________________________________________________________________________________________________________________________
 **Observações:**
-O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de teste que verificam o código.  
+O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de testes que verificam o código.  
