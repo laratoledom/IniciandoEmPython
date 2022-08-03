@@ -1,10 +1,10 @@
 ## TESTES
 
-Entrada:<br>
+<b>Entrada:</b><br>
 1 <br>
 9
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 1<br>
 b = 9<br>
 a + b = 10<br>
@@ -15,11 +15,11 @@ a // b = 0<br>
 a % b = 1
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 2<br>
 8<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 2<br>
 b = 8<br>
 a + b = 10<br>
@@ -30,11 +30,11 @@ a // b = 0<br>
 a % b = 2
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 7<br>
 3<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 7<br>
 b = 3<br>
 a + b = 10<br>
@@ -45,11 +45,11 @@ a // b = 2<br>
 a % b = 1
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 15<br>
 10<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 15<br>
 b = 10<br>
 a + b = 25<br>
@@ -60,11 +60,11 @@ a // b = 1<br>
 a % b = 5
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 13<br>
 15<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 13<br>
 b = 15<br>
 a + b = 28<br>
@@ -75,11 +75,11 @@ a // b = 0<br>
 a % b = 13
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 22<br>
 11<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 22<br>
 b = 11<br>
 a + b = 33<br>
@@ -90,11 +90,11 @@ a // b = 2<br>
 a % b = 0
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 11<br>
 2<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 11<br>
 b = 2<br>
 a + b = 13<br>
@@ -105,11 +105,11 @@ a // b = 5<br>
 a % b = 1
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 2<br>
 24<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 2<br>
 b = 24<br>
 a + b = 26<br>
@@ -120,11 +120,11 @@ a // b = 0<br>
 a % b = 2
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 8<br>
 9<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 8<br>
 b = 9<br>
 a + b = 17<br>
@@ -135,11 +135,11 @@ a // b = 0<br>
 a % b = 8
 ________________________________________
 
-Entrada:<br>
+<b>Entrada:</b><br>
 13<br>
 22<br>
 
-Saída esperada:<br>
+<b>Saída esperada:</b><br>
 a = 13<br>
 b = 22<br>
 a + b = 35<br>
