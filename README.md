@@ -1,7 +1,7 @@
 # Iniciando em Python
 Primeiro projeto para submissão em Python de MC102, curso ministrado pela UNICAMP.
 
-Como parte da grade curricular, alguns cursos da UNICAMP contam com a matéria MC102 (Algoritmos e Programação de Computadores), cujas aulas estão disponíveis e podem ser acessadas através do link https://ic.unicamp.br/~mc102/ em "Material Didático". O curso se baseia em uma introdução à linguagem Python, onde são estudados alguns comandos e são desenvolvidos laboratórios referentes aos conteúdos vistos conforme a matéria vai avançando. 
+Como parte da grade curricular, alguns cursos da UNICAMP contam com a matéria MC102 (Algoritmos e Programação de Computadores), cujas aulas estão disponíveis e podem ser acessadas [aqui](https://ic.unicamp.br/~mc102/) em "Material Didático". O curso se baseia em uma introdução à linguagem Python, onde são estudados alguns comandos e são desenvolvidos laboratórios referentes aos conteúdos vistos conforme a matéria vai avançando. 
 
 Neste arquivo, está disponibilizado o desenvolvimento do Laboratório 1, cujo objetivo foi exercitar o processo de submissão de um código em Python no sistema SuSy (Sistema utilizado pelo curso para a submissão e correção de tarefas). 
 
