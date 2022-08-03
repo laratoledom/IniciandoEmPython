@@ -1,4 +1,5 @@
 # Iniciando em Python
+## Laboratório 1: Aritmética com Inteiros<br>
 Primeiro projeto para submissão em Python de MC102, curso ministrado pela UNICAMP.
 
 Como parte da grade curricular, alguns cursos da UNICAMP contam com a matéria MC102 (Algoritmos e Programação de Computadores), cujas aulas estão disponíveis e podem ser acessadas [aqui](https://ic.unicamp.br/~mc102/) em "Material Didático". O curso se baseia em uma introdução à linguagem Python, onde são estudados alguns comandos e são desenvolvidos laboratórios referentes aos conteúdos vistos conforme a matéria vai avançando. 
@@ -16,5 +17,5 @@ O programa consiste em receber dois números inteiros e armazená-los nas variá
 •	Resto da Divisão: a % b <br> 
 </b> <br>
 
-Observações:
+**Observações:**
 O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de teste que verificam o código.  
