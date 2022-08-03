@@ -1,33 +1,33 @@
-**TESTES**
+## TESTES
 ________________________________________
 
-Entrada:
-1
+Entrada:<br>
+1 <br>
 9
 
-Saída esperada:
-a = 1
-b = 9
-a + b = 10
-a - b = -8
-a * b = 9
-a ** b = 1
-a // b = 0
+Saída esperada:<br>
+a = 1<br>
+b = 9<br>
+a + b = 10<br>
+a - b = -8<br>
+a * b = 9<br>
+a ** b = 1<br>
+a // b = 0<br>
 a % b = 1
 ________________________________________
 
-Entrada:
-2
-8
+Entrada:<br>
+2<br>
+8<br>
 
-Saída esperada:
-a = 2
-b = 8
-a + b = 10
-a - b = -6
-a * b = 16
-a ** b = 256
-a // b = 0
+Saída esperada:<br>
+a = 2<br>
+b = 8<br>
+a + b = 10<br>
+a - b = -6<br>
+a * b = 16<br>
+a ** b = 256<br>
+a // b = 0<br>
 a % b = 2
 ________________________________________
 
